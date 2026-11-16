@@ -7,26 +7,29 @@ Cette section décrit l'architecture générale de mon Homelab, les équipements
 
 ## Équipements physiques
 
-| Équipement | Adresse de gestion | Fonction |
+| Équipement | Caractéristiques | Fonction | 
 |---|---|---|
-| PC1 - Proxmox | Adresse privée documentée séparément | Virtualisation |
-| PC2 - Proxmox | Adresse privée documentée séparément | Virtualisation |
-| Switch HP A5120-16G | Adresse privée documentée séparément | Commutation |
+| PC1 - Windows | X | Pc perso qui me sert de pc pour accéder à mes serveurs |
+| pve1 - Proxmox | 16Go 500Go | Hyperviseur qui héberge mes VMs |
+| Switch HP A5120-16G | 16 Ports | Commutation |
 | Freebox | Passerelle du réseau | Accès Internet |
 
 ## Environnement de virtualisation
 
-Les machines virtuelles sont réparties sur deux hyperviseurs Proxmox indépendants.
+Les machines virtuelles sont sur l'hyperviseur Proxmox.
 
 ## Services hébergés
 
-- Active Directory et DNS
-- Serveur Debian
-- Serveur Minecraft Fabric
+- Active Directory et DNS (SRV-AD01)
+- Serveur Debian (SRV-DEBIAN01)
+
 
 ## Schéma réseau
+PC 1 : 192.168.0.24
+pve1 : 192.168.0.20
+SRV-AD01 : 192.168.0.30
+SRV-DEBIAN01 : 192.168.0.33
 
-À compléter : 
 
 ## Évolutions prévues
 
