@@ -16,11 +16,12 @@ Ce dépôt regroupe la documentation technique de mon infrastructure personnelle
 
 ## Infrastructure
 
-| Équipement | Technologie | Utilisation |
-|---|---|---|
-| PC1 | Proxmox VE | Virtualisation et services Windows |
-| PC2 | Proxmox VE | Hébergement de services Linux |
-| Switch HP A5120 | 
+| Équipement | Technologie | Caractéristique | Utilisation |
+|---|---|---|---|
+| PC1 | Windows 11 | 16Go | PC perso qui me sert de pc d'administration |
+| PC2 | Proxmox VE | 16Go 500Go SSD | Hyperviseur #1 - Hébergement des VMs pour l'AD, DNS, DHCP...|
+| PC3 | Proxmox VE | 8Go 250Go SSD | Hyperviseur #2 - Disponible mais pour l'instant pas branché ni utilisé |
+| Switch HP | | Constitue le coeur de réseau|
 
 ## Technologies utilisées
 
