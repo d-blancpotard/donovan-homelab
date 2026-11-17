@@ -19,13 +19,13 @@ Ce dépôt regroupe la documentation technique de mon infrastructure personnelle
 <img width="675" height="542" alt="Diagramme sans nom drawio" src="https://github.com/user-attachments/assets/5eab955a-c07e-44d4-ae2c-641896ff285d" />
 
 Tableau récapitulatif des équipements
-Équipement	Nom	Adresse IP
-Routeur	192.168.0.254
-PC1 192.168.0.24
-Switch 192.168.0.2
-pve01	Proxmox 192.168.0.20
-SRV-AD01 Windows Server  192.168.0.30
-SRV-DEBIAN01 Debian 192.168.0.34
+
+- Routeur	192.168.0.254
+- PC1 192.168.0.24
+- Switch 192.168.0.2
+- pve01	Proxmox 192.168.0.20
+- SRV-AD01 Windows Server  192.168.0.30
+- SRV-DEBIAN01 Debian 192.168.0.34
 
 ## Technologies utilisées
 
