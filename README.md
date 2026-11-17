@@ -16,7 +16,7 @@ Ce dépôt regroupe la documentation technique de mon infrastructure personnelle
 
 ## Infrastructure
 
-
+<img width="675" height="542" alt="Diagramme sans nom drawio" src="https://github.com/user-attachments/assets/5eab955a-c07e-44d4-ae2c-641896ff285d" />
 
 ## Technologies utilisées
 
@@ -25,6 +25,7 @@ Ce dépôt regroupe la documentation technique de mon infrastructure personnelle
 - **Annuaire :** Active Directory, DNS, GPO
 - **Réseaux :** TCP/IP, Ethernet, VLAN
 - **Services :** SSH
+
 - **Automatisation :** Bash, PowerShell
 
 ## Documentation
