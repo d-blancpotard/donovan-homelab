@@ -16,7 +16,7 @@ Ce dépôt regroupe la documentation technique de mon infrastructure personnelle
 
 ## Infrastructure
 
-<img width="675" height="542" alt="Diagramme sans nom drawio (1)" src="https://github.com/user-attachments/assets/59fbe239-faf1-49c7-89e1-0e4b152a607e" />
+<img width="675" height="542" alt="Diagramme" src="https://github.com/user-attachments/assets/59fbe239-faf1-49c7-89e1-0e4b152a607e" />
 
 
 Tableau récapitulatif des équipements
