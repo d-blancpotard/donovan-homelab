@@ -25,11 +25,8 @@ Les machines virtuelles sont sur l'hyperviseur Proxmox.
 
 
 ## Schéma réseau
-PC 1 : 192.168.0.24
-pve1 : 192.168.0.20
-SRV-AD01 : 192.168.0.30
-SRV-DEBIAN01 : 192.168.0.33
 
+<img width="675" height="542" alt="diagramme" src="https://github.com/user-attachments/assets/fccf33a3-8b30-42f4-9a13-05ff6ab65afb" />
 
 ## Évolutions prévues
 
